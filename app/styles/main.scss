@@ -76,7 +76,7 @@ $sliding-menu-color-hover: #fff;
   $hero-background-bottom: adjust-hue($hero-background-top, -70);
   $hero-color: black;
   $gradient-angle: 10deg;
-  $hero-image: '../images/2.jpg';
+  $hero-image: 'https://rawgit.com/thachmle/bourbon/master/app/images/2.jpg';
   //https://raw.githubusercontent.com/thoughtbot/refills/master/source/images/mountains.png';
 
   @include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
