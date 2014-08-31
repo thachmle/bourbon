@@ -1,3 +1,2 @@
-## Yo, I'm a Readme
-
-You should probably update me so people looking at your code have an idea what it is being used for :)
+-Using bourbon, neat and bitters to do a quick mockup.
+-Interacting with bourbon and its powerful and lightweight features
